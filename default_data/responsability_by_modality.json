@@ -1,0 +1,4502 @@
+[
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 2,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 11,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 12,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 16,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 17,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 21,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 22,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 24,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 1,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 1,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 1,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 1,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 1,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 11,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 12,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 21,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 22,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 23,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 24,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 5,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 5,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 5,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 5,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 5,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 2,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 3,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 7,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 8,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 9,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 10,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 11,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 12,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 13,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 14,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 15,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 16,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 17,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 18,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 19,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 20,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 21,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 22,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 23,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 24,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 4,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 4,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 4,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 4,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 4,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 2,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 3,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 7,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 8,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 9,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 10,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 11,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 12,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 13,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 14,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 15,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 16,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 17,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 18,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 19,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 20,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 21,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 22,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 23,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 24,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 2,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 2,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 2,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 2,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 2,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 2,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 3,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 7,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 8,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 9,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 10,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 11,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 12,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 13,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 14,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 15,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 16,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 17,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 18,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 19,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 20,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 21,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 22,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 23,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 24,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 3,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 3,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 3,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 3,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 3,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 2,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 11,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 12,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 16,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 17,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 21,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 22,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 24,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 6,
+    "space_id": 1
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 6,
+    "space_id": 2
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 6,
+    "space_id": 3
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 6,
+    "space_id": 4
+  },
+  {
+    "applies": true,
+    "responsability_id": 1,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 2,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 3,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 4,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 5,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 6,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 7,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 8,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 9,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 10,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 11,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 12,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 13,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 14,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 15,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 16,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 17,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 18,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 19,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 20,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 21,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 22,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 23,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": false,
+    "responsability_id": 24,
+    "mode_id": 6,
+    "space_id": 5
+  },
+  {
+    "applies": true,
+    "responsability_id": 25,
+    "mode_id": 6,
+    "space_id": 5
+  }
+]

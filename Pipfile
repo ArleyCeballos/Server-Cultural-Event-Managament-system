@@ -1,0 +1,36 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+uvicorn = "*"
+gunicorn = "==20.1.0"
+httptools = "==0.3.0"
+uvloop = "==0.16.0"
+tortoise-orm = "==0.18.1"
+asyncpg = "==0.25.0"
+email-validator = "*"
+google-cloud-storage = "*"
+python-multipart = "*"
+pydantic-settings = "*"
+
+[dev-packages]
+debugpy = "*"
+pre-commit = "*"
+pytest = "*"
+pytest-cov = "*"
+pytest-mock = "*"
+pytest-asyncio = "*"
+black = "*"
+requests = "*"
+asynctest = "*"
+httpx = "*"
+mypy = "*"
+
+[requires]
+python_version = "3.8"
+
+[pipenv]
+allow_prereleases = true

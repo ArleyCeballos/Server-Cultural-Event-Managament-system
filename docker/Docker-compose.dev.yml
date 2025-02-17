@@ -1,0 +1,51 @@
+version: "3.2"
+
+services:
+  aplicativo-db-api:
+    image: aplicativo-db-api
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    command: uvicorn app.main:app --reload --workers 1 --host 0.0.0.0 --port 80
+    volumes:
+      - ../:/usr/src/app/
+      - ../key/:/key
+    ports:
+      - 8007:80
+      - 10001:10001
+    environment:
+      - DEBUGGER=False
+      - VERSION=0.1.0
+      - TITLE=aplicativo-db
+      - DESCRIPTION=Database service for Aplicativo
+      - ENVIRONMENT=dev
+      - POSTGRES_DATABASE_URL=postgres://postgres:postgres@aplicativo-db:5432/aplicativo_db
+      - POSTGRES_DATABASE_TEST_URL=sqlite://./storage/aplicativo_db_test
+      - DEFAULT_DATA=True
+      - BUCKET_NAME=integradorll-tptu-gp2-20241
+      # - GOOGLE_APPLICATION_CREDENTIALS=/key/cloud_key.json
+    networks:
+      - aplicativo
+
+  aplicativo-db:
+    image: aplicativo-db
+    build:
+      context: ../db
+      dockerfile: Dockerfile
+    ports:
+      - "5436:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - aplicativo-db:/var/lib/postgresql/data
+    networks:
+      - aplicativo
+
+volumes:
+  aplicativo-db:
+    external: true
+
+networks:
+  aplicativo:
+    external: true

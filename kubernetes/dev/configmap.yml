@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: aplicativo-capacity-db
+  namespace: dev-aplicativo-capacity
+data:
+  DEBUGGER: "False"
+  VERSION: "0.1.0"
+  TITLE: "aplicativo Capacity Service DB"
+  DESCRIPTION: "Database service for aplicativo capacity"
+  ENVIRONMENT: "dev"
+  POSTGRES_DATABASE_URL: "postgres://postgres:BAOy7mc0ytFtM1qE@localhost:5432/aplicativo_capacity_dev"
+  DEFAULT_DATA: "False"
+  DEFAULT_DEV_DATA: "False"

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "PRE RESERVA"
+  },
+  {
+    "name": "CONFIRMADO"
+  },
+  {
+    "name": "LISTO PARA EJECUTAR"
+  },
+  {
+    "name": "CANCELADO"
+  },
+  {
+    "name": "EN EJECUCION"
+  },
+  {
+    "name": "TERMINADO"
+  }
+]

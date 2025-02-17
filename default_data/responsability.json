@@ -1,0 +1,102 @@
+[
+{
+    "name": "Duracion del evento",
+    "description": "Cuanto tiempo va a durar el evento"
+  },
+  {
+    "name": "Pulep",
+    "description": "portal unico de espectaculos publicos de las artes escenicas"
+  },
+  {
+    "name": "Info para pulep",
+    "description": "Contenido para poder generar el pulep"
+  },
+  {
+    "name": "Rider Tecnico",
+    "description": "Documento con especificaciones técnicas."
+  },
+  {
+    "name": "cronograma",
+    "description": "Fechas en las qeu se realiza el evento y sus sub eventos"
+  },
+  {
+    "name": "Plano de luces",
+    "description": "Distribucion de las luces en el evento"
+  },
+  {
+    "name": "Boleteria",
+    "description": "Se realizará ingreso o no con boletería"
+  },
+  {
+    "name": "Repertorio",
+    "description": "Pendiente"
+  },
+  {
+    "name": "Tramite sayco",
+    "description": "Pendiente"
+  },
+  {
+    "name": "Tramite acinpro",
+    "description": "Pendiente"
+  },
+  {
+    "name": "Licencia sayco",
+    "description": "Pendiente"
+  },
+  {
+    "name": "Licencia acinpro",
+    "description": "Pendiente"
+  },
+  {
+    "name": "Piezas publicitarias",
+    "description": "Pendiente"
+  },
+  {
+    "name": "Infor transporte",
+    "description": "Pendiente"
+  },
+  {
+    "name": "Info alimentacion",
+    "description": "Pendiente"
+  },
+  {
+    "name": "Ambulancia",
+    "description": "Pendiente"
+  },
+  {
+    "name": "Acomodadores",
+    "description": "Pendiente"
+  },
+  {
+    "name": "Catering",
+    "description": "Pendiente"
+  },
+  {
+    "name": "Tiquetera",
+    "description": "Pendiente"
+  },
+{
+    "name": "Transporte",
+    "description": "Pendiente"
+  },
+  {
+    "name": "Permiso Gobierno",
+    "description": "Pendiente"
+  },
+{
+    "name": "Arqued acomodadores",
+    "description": "Pendiente"
+  },
+  {
+    "name": "Liquidacion de boletería",
+    "description": "Pendiente"
+  },
+{
+    "name": "Liquidar Eventos ",
+    "description": "Pendiente"
+  },
+  {
+    "name": "Encuestas de satisfacción",
+    "description":"Pendiente"
+  }
+]

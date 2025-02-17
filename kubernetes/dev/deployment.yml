@@ -1,0 +1,98 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: aplicativo-capacity-db
+  namespace: dev-aplicativo-capacity
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: aplicativo-capacity-db
+  template:
+    metadata:
+      labels:
+        app: aplicativo-capacity-db
+        scope: aplicativo-capacity
+        tier: bucket
+    spec:
+      nodeSelector:
+        type: "principal"
+      containers:
+        - name: aplicativo-capacity-db
+          image: gcr.io/charliebertvg/aplicativo-capacity/database:1.0.3-dev
+          imagePullPolicy: Always
+          command:
+            - "gunicorn"
+          args:
+            [
+              "app.main:app",
+              "-w",
+              "1",
+              "-k",
+              "uvicorn.workers.UvicornWorker",
+              "-b",
+              "0.0.0.0:80",
+              "--access-logfile",
+              "-",
+              "--log-level",
+              "info",
+              "--timeout",
+              "3600",
+            ]
+          resources:
+            requests:
+              memory: "100Mi"
+              cpu: "80m"
+            limits:
+              memory: "150Mi"
+              cpu: "80m"
+          startupProbe:
+            httpGet:
+              path: /api/healt-check
+              port: 80
+            failureThreshold: 3
+            periodSeconds: 15
+            timeoutSeconds: 10
+          readinessProbe:
+            httpGet:
+              path: /api/healt-check
+              port: 80
+            initialDelaySeconds: 30
+            periodSeconds: 60
+            failureThreshold: 2
+            timeoutSeconds: 10
+          livenessProbe:
+            tcpSocket:
+              port: 80
+            initialDelaySeconds: 30
+            periodSeconds: 120
+            failureThreshold: 2
+            timeoutSeconds: 10
+          ports:
+            - containerPort: 80
+          envFrom:
+            - configMapRef:
+                name: aplicativo-capacity-db
+        - name: cloud-sql-proxy
+          image: gcr.io/cloudsql-docker/gce-proxy:1.17
+          command:
+            - "/cloud_sql_proxy"
+            - "-instances=charliebertvg:us-central1:glt-db=tcp:5432"
+            - "-credential_file=/secrets/service_account.json"
+          securityContext:
+            runAsNonRoot: true
+          volumeMounts:
+            - name: aplicativo-capacity-db-secret
+              mountPath: /secrets/
+              readOnly: true
+          resources:
+            requests:
+              memory: "20Mi"
+              cpu: "10m"
+            limits:
+              memory: "20Mi"
+              cpu: "10m"
+      volumes:
+        - name: aplicativo-capacity-db-secret
+          secret:
+            secretName: aplicativo-capacity-sql
